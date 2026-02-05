@@ -29,7 +29,6 @@ All models are evaluated using RMSE on log(SalePrice), which aligns with the Kag
 competition metric and reduces the influence of extreme values.
 
 ## Project Structure
-.
 ```text
 ├── house-prices-prediction.ipynb
 ├── outputs/
