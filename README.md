@@ -30,6 +30,7 @@ competition metric and reduces the influence of extreme values.
 
 ## Project Structure
 .
+```text
 ├── house-prices-prediction.ipynb
 ├── outputs/
 │   ├── eda/
